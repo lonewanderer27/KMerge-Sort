@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Merge_Sort_AAC/1.0.0": {
+        "runtime": {
+          "Merge_Sort_AAC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge_Sort_AAC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

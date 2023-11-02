@@ -1,0 +1,14 @@
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.AssemblyInfoInputs.cache
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.AssemblyInfo.cs
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.csproj.CoreCompileInputs.cache
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/bin/Debug/net7.0/Merge_Sort_AAC
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/bin/Debug/net7.0/Merge_Sort_AAC.deps.json
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/bin/Debug/net7.0/Merge_Sort_AAC.runtimeconfig.json
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/bin/Debug/net7.0/Merge_Sort_AAC.dll
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/bin/Debug/net7.0/Merge_Sort_AAC.pdb
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.dll
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/refint/Merge_Sort_AAC.dll
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.pdb
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/Merge_Sort_AAC.genruntimeconfig.cache
+/home/ian/Documents/C# Projects/Merge_Sort_AAC/obj/Debug/net7.0/ref/Merge_Sort_AAC.dll
